@@ -32,7 +32,7 @@ Open your python-api-challenge GitHub folder in VS Code.
 Open the .gitignore file, and on the first line type the following:
 
 
-# Adding config.py file.
+Adding config.py file.
 api_keys.py
 
 
