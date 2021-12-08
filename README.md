@@ -1,3 +1,12 @@
+# Observations
+
+1. Latitude and temperature show seem to show some relationship. As negaitve latitude increases, temperature increases unitl it reaches the positive latitude and then has the inverse relationship. As latitude increases, temperature increases.
+
+2. Latitude and humidity show seem to show some relationship. As latitude increases, humidity increases. 
+
+3. Latitude and cloudiness show no relationship.  
+
+
 # python-api-challenge
 
 Before You Begin
